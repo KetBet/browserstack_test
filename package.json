@@ -8,8 +8,8 @@
     "dotenv": "^16.3.1"
   },
   "scripts": {
-    "test:pixel": "wdio run ./wdio.conf.js",
-    "test:samsung": "wdio run ./wdio.conf.samsung.js",
+    "test:pixel": "wdio run ./wdio.pixel.conf.js",
+    "test:samsung": "wdio run ./wdio.samsung.conf.js",
     "report:generate": "npx allure generate allure-results --clean",
     "report:open": "npx allure open allure-report"
   },
