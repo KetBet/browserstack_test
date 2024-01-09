@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Jan 09 22:50:04 UTC 2024","Tue Jan 09 22:50:10 UTC 2024","5239","","Webview screen verification","","","","should check the content of the webview screen",""
+"passed","Tue Jan 09 22:50:00 UTC 2024","Tue Jan 09 22:50:19 UTC 2024","19576","","Drag and drop elements","","","","should drag and drop elements",""
+"passed","Tue Jan 09 22:50:03 UTC 2024","Tue Jan 09 22:50:09 UTC 2024","6174","","Login invalid","","","","should not login with invalid credentials",""
+"passed","Tue Jan 09 22:49:59 UTC 2024","Tue Jan 09 22:50:00 UTC 2024","1689","","Home screen verification","","","","should check the content of the home screen",""
+"passed","Tue Jan 09 22:50:00 UTC 2024","Tue Jan 09 22:50:01 UTC 2024","1216","","Sign up invalid","","","","""before each"" hook for Sign up invalid",""
+"passed","Tue Jan 09 22:50:00 UTC 2024","Tue Jan 09 22:50:06 UTC 2024","6370","","Sign up invalid","","","","should not sign up with invalid credentials",""
