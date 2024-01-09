@@ -10,8 +10,8 @@
   "scripts": {
     "test:pixel": "wdio run ./wdio.conf.js",
     "test:samsung": "wdio run ./wdio.conf.samsung.js",
-        "report:generate": "npx allure generate allure-results --clean",
-        "report:open": "npx allure open allure-report"
+    "report:generate": "npx allure generate allure-results --clean",
+    "report:open": "npx allure open allure-report"
   },
   "dependencies": {
     "allure-commandline": "^2.25.0"
